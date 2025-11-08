@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Multi-Agent AI",
+  "description": "An application showcasing three distinct AI agents: a real-time voice assistant using the Live API, a grounded search agent for up-to-date information, and a conversational chatbot.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
